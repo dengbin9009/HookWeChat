@@ -19,8 +19,6 @@
     old_onNext = method_getImplementation(onNext);
     //2.SET
     method_setImplementation(onNext, (IMP)my_next);
-    method_exchangeImplementations(<#Method  _Nonnull m1#>, <#Method  _Nonnull m2#>)
-    class_replaceMethod(<#Class  _Nullable __unsafe_unretained cls#>, <#SEL  _Nonnull name#>, <#IMP  _Nonnull imp#>, <#const char * _Nullable types#>)
 }
 
 IMP (*old_onNext)(id self,SEL _cmd);
