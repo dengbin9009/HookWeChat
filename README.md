@@ -6,7 +6,7 @@
 
 ## InjectFrameWork：
 不能直接运行，需要进行如下操作  
-1、在工程的APP目录中加入已经越狱的app，下方有下载链接
+1、在工程的APP目录中加入已经越狱的app，下方有下载链接  
 2、对已经越狱的app的MachO文件使用yololib进行Framework注入，在重新打包app  
 
 ## 相关下载：
