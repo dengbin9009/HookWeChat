@@ -12,7 +12,7 @@
 ## 相关下载：
 [越狱版本微信7.0.2](https://pan.baidu.com/s/16MPzurhu15rWlq3Gjs1bxg)  提取码: 2w87  
 [MachOView](https://pan.baidu.com/s/1P83AK1IDT0Wv8k2r-s9cIg) 提取码: n3hy   
-[yololib](https://pan.baidu.com/s/1MRrYIpFzoKjjIZk4y3yTZQ) 提取码：rvy3  
-[class-dump](https://pan.baidu.com/s/1SfM9rFLTjuNambRdYFVv-w) 提取码：icss  
+[yololib](https://pan.baidu.com/s/1ZFeThqf2i4Juw11ny0OTfw) 提取码：e8qs
+[class-dump](https://pan.baidu.com/s/1Q7h0dZXcrRUPSL0y96gS5A) 提取码：v5ku
 
 该Demo对应文章[iOS逆向(4)-代码注入，窃取微信密码](https://www.jianshu.com/p/31232eef35c5)
